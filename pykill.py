@@ -4,7 +4,9 @@
     -------------------------------------------------------------------
     A script to kill processes that may interfere with running aircrack
     -------------------------------------------------------------------
-    by: corfucius
+    Run: python pykill.py -w wirelessCardName
+
+   by: corfucius
 '''
 import optparse
 import subprocess
